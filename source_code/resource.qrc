@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/arrive.ico</file>
+        <file>resource/car.ico</file>
+        <file>resource/database.txt</file>
+        <file>resource/exe.ico</file>
+        <file>resource/map.jpg</file>
+        <file>resource/pause.ico</file>
+        <file>resource/plane.ico</file>
+        <file>resource/train.ico</file>
+    </qresource>
+</RCC>
